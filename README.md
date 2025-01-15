@@ -29,7 +29,6 @@ A modern, responsive web application for managing home inventory during relocati
    - Maximum limit of 20 items per type
    - Item categorization
    - Search functionality
-   - Real-time inventory updates
 
 4. **User Interface**
    - Responsive design
