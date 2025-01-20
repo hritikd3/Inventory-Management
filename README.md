@@ -47,7 +47,7 @@ A modern, responsive web application for managing home inventory during relocati
 1. **Clone the Repository**
    ```bash
    git clone [repository-url]
-   cd home-inventory-app
+   cd Inventory-Management
    ```
 
 2. **Install Dependencies**
